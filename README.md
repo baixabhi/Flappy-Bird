@@ -3,13 +3,13 @@ Explore the world of game development with my Flappy Bird clone implemented in P
 
 ## Key Features:
 
-Pygame-based Flappy Bird clone
-Welcome screen with instructions
-Scoring system and obstacle challenges
-Modular code for easy understanding and modification
-Skills Demonstrated:
+1.Pygame-based Flappy Bird clone
+2.Welcome screen with instructions
+3.Scoring system and obstacle challenges
+4.Modular code for easy understanding and modification
 
-Python programming
-Game development with Pygame
-Event handling and collision detection
-User interface design
+Skills Demonstrated:
+1.Python programming
+2.Game development with Pygame
+3.Event handling and collision detection
+4.User interface design
